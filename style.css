@@ -1,0 +1,28 @@
+body {
+  background-color: #0b0d17;
+  color: #e6e3dc;
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-size: 18px;
+}
+
+h1 {
+  color: #f0b429;
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-size: 32px;
+}
+
+p {
+  color: #c2c7cf;
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-size: 18px;
+}
+
+img {
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-size: 18px;
+  color: #c2c7cf;
+}
